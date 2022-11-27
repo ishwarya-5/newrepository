@@ -1,4 +1,6 @@
 new file
 to be added to test push and pull methods
-and also need to squash no.of.cpmmits to single
-new line added after clone at 5:38
+and also need to squash no.of.cpmimits to single
+new line added after clone at 
+new changes to be made for pull
+
